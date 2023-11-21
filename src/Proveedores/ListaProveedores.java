@@ -31,5 +31,5 @@ public class ListaProveedores {
     public ArrayList<Proveedor> getLista() {
         return lista;
     }
-
+//codigo nuevo
 }
